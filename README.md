@@ -22,7 +22,7 @@ Me chamo Murilo Pires, tenho 19 anos e sou de Sorocaba, São Paulo. Atualmente, 
 </p>
 
 ---
-## 👾Linguagens e tecnoligas 
+## 👾Linguagens e tecnologias 
  
 <img 
     align="left" 
