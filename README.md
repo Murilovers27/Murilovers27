@@ -1,4 +1,4 @@
-# 🤖 Murilo Pires 
+# 🤖 Murilo Pires
 
 **`Desenvolvedor back-end`**
 
@@ -22,7 +22,7 @@ Me chamo Murilo Pires, tenho 19 anos e sou de Sorocaba, São Paulo. Atualmente, 
 </p>
 
 ---
-## 👾 Linguagens e tecnologias 
+## 👾 Linguagens e Tecnologias
  
 <img 
     align="left" 
@@ -88,4 +88,3 @@ Me chamo Murilo Pires, tenho 19 anos e sou de Sorocaba, São Paulo. Atualmente, 
   />
 </p>
 
-          
