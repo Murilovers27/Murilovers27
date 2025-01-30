@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back-end`**
 
-Me chamo Murilo Pires, tenho 19 anos e sou de Sorocaba, São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas no Centro Universitário Facens. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais sobre esse universo fascinante.
+Me chamo Murilo Pires, tenho 19 anos e sou de Sorocaba, São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na Facens (Faculdade de Engenharia de Sorocaba). Sou apaixonado por tecnologia e estou sempre em busca de aprender mais sobre esse universo fascinante. Tenho interesse tanto por front-end quanto por back-end. Minhas principais linguagens são JavaScript para o desenvolvimento web e Java para o back-end. Estou constantemente me atualizando para ampliar meu repertório, a fim de criar soluções criativas e inovadoras.
 
 <p align="left">
     <a href="https://github.com/Murilovers27?tab=repositories&sort=stargazers">
@@ -22,28 +22,28 @@ Me chamo Murilo Pires, tenho 19 anos e sou de Sorocaba, São Paulo. Atualmente, 
 </p>
 
 ---
-## 👾Linguagens e tecnologias 
+## 👾 Linguagens e tecnologias 
  
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java" 
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Spring" 
+    title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
@@ -51,17 +51,17 @@ Me chamo Murilo Pires, tenho 19 anos e sou de Sorocaba, São Paulo. Atualmente, 
 <img
     align="left"
     alt="HTML"
-    tile="html"
+    title="HTML"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img
-    aling="left"
+    align="left"
     alt="CSS"
-    title="css"
+    title="CSS"
     width="30px"
-    style="passing-right: 10px;"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <br/>
@@ -87,6 +87,5 @@ Me chamo Murilo Pires, tenho 19 anos e sou de Sorocaba, São Paulo. Atualmente, 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovers27&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 </p>
-
 
           
