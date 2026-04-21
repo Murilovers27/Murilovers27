@@ -1,74 +1,90 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo(a)+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C4DFF&center=true&vCenter=true&random=false&width=520&lines=✨+Welcome+to+my+profile!+✨" 
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
+---
 
-#
+## 👋 About
+
+I'm a software developer passionate about building clean, scalable, and efficient solutions.  
+I work across both **front-end** and **back-end**, always focusing on code quality, usability, and performance.
+
+Constantly learning, experimenting, and evolving through technology.
+
+---
+
+## 🌐 Connect
 
 <p align="left">
-  Me chamo Murilo Pires, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba.<br>
-  Tenho interesse tanto por front-end quanto por back-end, e minhas principais linguagens são Java e JavaScript.<br>
-  Estudo e me atualizo na área de tecnologia para aprender mais e aplicar soluções criativas e inovadoras.
-</p>
-
-<br clear="all">
-
-<h3 align="left">Connect with me!</h3>
-
-<p align="left">
-  <a href="mailto:SEU-EMAIL-AQUI@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/murilopires27/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muril0pires">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">My Stack ~</h3>
+---
+
+## 🧩 Tech Stack
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26"/>
 </div>
 
-<div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
+---
+
+## 🛠️ Tools & Environment
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="32"/>
 </div>
 
-#
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Murilovers27&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+---
 
-  <a href="https://github.com/anuragazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovers27&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+## 📊 GitHub Insights
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&bg_color=0D1117&text_color=FFFFFF&icon_color=7C4DFF&border_color=2A2A2A"
+    height="150"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0D1117&text_color=FFFFFF&title_color=7C4DFF&border_color=2A2A2A"
+    height="150"
+  />
 </div>
-#
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Murilovers27/Murilovers27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Murilovers27/Murilovers27/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Murilovers27/Murilovers27/output/github-contribution-grid-snake.svg">
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
