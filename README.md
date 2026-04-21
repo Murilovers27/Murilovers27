@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Contato
 
 <p align="left">
   <a href="mailto:SEU-EMAIL-AQUI@gmail.com">
