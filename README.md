@@ -7,7 +7,6 @@
 ---
 
 ## 👋 Sobre mim
-
 <p align="left">
   Me chamo Murilo Pires, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba.<br>
   Tenho interesse tanto por front-end quanto por back-end, e minhas principais linguagens são Java e JavaScript.<br>
@@ -17,7 +16,6 @@
 ---
 
 ## 🌐 Contato
-
 <p align="left">
   <a href="mailto:SEU-EMAIL-AQUI@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -33,7 +31,6 @@
 ---
 
 ## 🚀 My Stack
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28"/>
@@ -47,7 +44,6 @@
 ---
 
 ## 🛠️ Tools & Frameworks
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
@@ -58,14 +54,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Murilovers27&hide_title=true&show_icons=true&count_private=true&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&icon_color=FF00F6&border_color=36123c&border_radius=6" 
+  <img
+    src="https://streak-stats.demolab.com?user=Murilovers27&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=6&background=000000&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B&border=36123c"
     height="165"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovers27&layout=compact&langs_count=4&bg_color=000000&title_color=FF00F6&text_color=8B8B8B&border_color=561760&border_radius=6" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Murilovers27&theme=transparent&title_color=FF00F6&text_color=8B8B8B&border_color=561760"
     height="165"
   />
 </div>
